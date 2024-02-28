@@ -1,9 +1,9 @@
 import { Text, View, StyleSheet } from 'react-native';
 
-export default function SecondComponent() {
+export default function FirstComponent() {
 
     return (
-        <View style={styles.container}>
+        <View>
             <Text>Componente</Text>
         </View>
     );
